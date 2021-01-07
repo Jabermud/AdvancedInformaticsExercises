@@ -4,11 +4,6 @@ Jose Bermudez
 
 The link to my ee283 website is:
 
-[AdvancedInformaticsExercises](link)
+[AdvancedInformaticsExercises](https://jabermud.github.io/AdvancedInformaticsExercises/)
 
 This is my random text.
-
-
-
-
-
