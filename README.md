@@ -1,5 +1,5 @@
 created: 2021-01-07
-updated: 2021-02-09
+updated: 2021-02-23
 
 
 Jose Bermudez
@@ -19,3 +19,5 @@ This is my random text added by working on branch `README.md_insert_randomtext` 
 ## [HW4](https://github.com/Jabermud/ee283_hw4.git)
 
 ## [HW5](https://github.com/Jabermud/ee283_hw5.git)
+
+## [HW6](https://github.com/Jabermud/ee283_HW6.git)
